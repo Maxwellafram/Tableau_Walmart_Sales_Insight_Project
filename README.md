@@ -1,5 +1,7 @@
 # Tableau_Walmart_Sales_Insight_Project
-This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour.
+The Data set used in this project, is a cleaned version of the SQL Project data Set in my Repository 3 project (Walmart Sql Project).
+ The Data was cleaned using MS SQL. To Optimize performance, I used Extract Connection and all Aggregations were preaggregated 
+ in SQL before bringing it into Tableau.
 
 
 This dashboard provides a comprehensive analysis of Walmart’s sales performance across different branches and product lines. Here’s what it covers:
