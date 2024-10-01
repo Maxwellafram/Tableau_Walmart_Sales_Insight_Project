@@ -13,3 +13,4 @@ This dashboard provides a comprehensive analysis of Walmart’s sales performanc
 📈 Sales Trends: Visualized trends showing total sales over time, enabling easy comparison and insights into sales performance.
 
 Building this dashboard helped me further hone my skills in data storytelling and business intelligence. Leveraging Tableau’s powerful features, I was able to provide actionable insights that can help optimize sales strategies and decision-making processes.
+
