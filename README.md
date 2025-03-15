@@ -1,6 +1,5 @@
 # Tableau_Walmart_Sales_Insight_Project
-The Data set used in this project, is a cleaned version of the SQL Project data Set in my Repository 3 project (Walmart Sql Project).
- The Data was cleaned using MS SQL. To Optimize performance, I used Extract Connection and all Aggregations were preaggregated 
+ The Data was cleaned using MS SQL. To Optimize performance, all Aggregations were preaggregated 
  in SQL before bringing it into Tableau.
 
 
